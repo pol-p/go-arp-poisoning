@@ -1,4 +1,4 @@
-# ARP Spoofing Tool
+# ARP Poisoning Tool
 
 Una herramienta CLI en Go para realizar ataques de ARP spoofing enviando respuestas ARP falsas a una víctima en la red.
 
