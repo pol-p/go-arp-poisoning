@@ -1,0 +1,47 @@
+# Binarios
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Archivos de test
+*.test
+
+# Archivos de coverage
+*.out
+
+# Archivos de Go build
+*.o
+*.a
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS específicos
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos de backup
+*.backup
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# Dependencias de Go que no deberían estar en el repo
+vendor/
+
+# Variables de entorno
+.env
